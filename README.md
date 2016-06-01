@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Rocket.Chat logo](https://rocket.chat/images/logo/logo-dark.svg?v3)
 
 # The Ultimate Open Source WebChat Platform
@@ -386,3 +387,6 @@ Rocket.Chat will be free forever, but you can help us speed-up the development!
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZL94ZE6LGVUSN)
 
 [BountySource](https://www.bountysource.com/teams/rocketchat)
+=======
+# widechat
+>>>>>>> c026aa8962d4bb3ad4782b1df6b561edf74d5dee
